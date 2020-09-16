@@ -346,7 +346,7 @@
             this.btnBack.AutoSize = true;
             this.btnBack.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnBack.Depth = 0;
-            this.btnBack.Location = new System.Drawing.Point(619, 374);
+            this.btnBack.Location = new System.Drawing.Point(698, 386);
             this.btnBack.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnBack.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnBack.Name = "btnBack";
@@ -361,7 +361,7 @@
             this.btnview.AutoSize = true;
             this.btnview.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnview.Depth = 0;
-            this.btnview.Location = new System.Drawing.Point(552, 374);
+            this.btnview.Location = new System.Drawing.Point(631, 386);
             this.btnview.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnview.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnview.Name = "btnview";
@@ -376,7 +376,7 @@
             this.Btnsearch.AutoSize = true;
             this.Btnsearch.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.Btnsearch.Depth = 0;
-            this.Btnsearch.Location = new System.Drawing.Point(459, 374);
+            this.Btnsearch.Location = new System.Drawing.Point(538, 386);
             this.Btnsearch.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.Btnsearch.MouseState = MaterialSkin.MouseState.HOVER;
             this.Btnsearch.Name = "Btnsearch";
@@ -391,7 +391,7 @@
             this.btnsave.AutoSize = true;
             this.btnsave.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnsave.Depth = 0;
-            this.btnsave.Location = new System.Drawing.Point(374, 374);
+            this.btnsave.Location = new System.Drawing.Point(453, 386);
             this.btnsave.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnsave.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnsave.Name = "btnsave";
@@ -407,7 +407,7 @@
             this.btnDelete.AutoSize = true;
             this.btnDelete.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnDelete.Depth = 0;
-            this.btnDelete.Location = new System.Drawing.Point(288, 374);
+            this.btnDelete.Location = new System.Drawing.Point(367, 386);
             this.btnDelete.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnDelete.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnDelete.Name = "btnDelete";
@@ -423,7 +423,7 @@
             this.btnnew.AutoSize = true;
             this.btnnew.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnnew.Depth = 0;
-            this.btnnew.Location = new System.Drawing.Point(218, 374);
+            this.btnnew.Location = new System.Drawing.Point(297, 386);
             this.btnnew.Margin = new System.Windows.Forms.Padding(4, 6, 4, 6);
             this.btnnew.MouseState = MaterialSkin.MouseState.HOVER;
             this.btnnew.Name = "btnnew";
@@ -448,7 +448,7 @@
             this.Controls.Add(this.employeeDataGridView);
             this.Controls.Add(this.employeeBindingNavigator);
             this.Name = "GridEmp";
-            this.Text = "FrmSal";
+            this.Text = "Employee Details";
             this.Load += new System.EventHandler(this.FrmSal_Load);
             ((System.ComponentModel.ISupportInitialize)(this.payrollDbDataSet)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.employeeBindingSource)).EndInit();
